@@ -1,0 +1,15 @@
+Requirements :-
+1) install django
+2) install djangorestframework
+
+Process:-
+Operation perform to RESTAPIs -
+1)http://127.0.0.1:8000/admin
+Default user -
+user id : shubh27
+password: 1234
+2)http://127.0.0.1:8000/api/client/
+3)http://127.0.0.1:8000/api/user/
+4)http://127.0.0.1:8000/api/project/
+5) using for "PostmanCanary" All operation GET, POST, UPDATE, DELETE performing of an client.
+6) using for sqlite3 database analyze for these online database tools "https://sqliteonline.com/".
